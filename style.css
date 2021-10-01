@@ -68,7 +68,7 @@ footer{
 
 }
 
-@media screen and (min-width: 480px) and (min-width: 677px) {
+@media screen and (min-width: 480px) {
   body{
     background-color: grey;
     color: #fff;
